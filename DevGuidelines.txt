@@ -2,6 +2,10 @@ This guidelines should be followed:
 
 ALL features thould be names featureXX where XX is between 01 and 99
 
+All guidelines should be in english.
+
 Guidelines added below are EXTREMELY important:
+
+Pre-cast all commands with QWERTY_
 
 x
