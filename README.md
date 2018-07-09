@@ -1,1 +1,1 @@
-# breaktheice
+This is the BreakTheIce project
